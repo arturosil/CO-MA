@@ -1,0 +1,56 @@
+p {
+    font-family: helvetica, arial;
+    color: #5e5e5e;
+    font-size: 13px;
+    padding: 0px;
+    padding: 0px 0;
+   
+    }
+
+h1 {
+    font-family: helvetica, arial;
+    color: #000000;
+    font-size: 13px;
+    padding: 0px 0;
+    }
+
+h2 {
+    font-family: helvetica, arial;
+    color: #0064fc;
+    font-size: 13px;
+        }
+
+a {
+    color: #000;
+    }
+
+/* unvisited link */
+a:link {
+    color:#000;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #0064fc;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color:#0064fc;
+    text-decoration: none;
+  }
+        
+  li {
+    display: lineas;
+    text-align: -webkit-match-parent;
+}
+            
+
